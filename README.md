@@ -1,6 +1,6 @@
 - 👋 Hi, I’mKurt
 - 👀 I’m interested inlearning more front end Development
-- 🌱 I’m currently learning sass
+- 🌱 I’m currenly  Learing Next JS
 - 💞️ I’m looking to collaborate amd learn to code from scratch bettwe or how make boiler plate to make me more effetive
 
 - 📫 email kmetz73@gmail.com
